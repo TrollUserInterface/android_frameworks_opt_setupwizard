@@ -19,10 +19,10 @@
 
     <!-- General colors -->
 
-    <color name="suw_color_accent_dark">#ff448aff</color>
-    <color name="suw_color_accent_light">#ff3367d6</color>
-    <color name="suw_link_color_dark">#ff448aff</color>
-    <color name="suw_link_color_light">#ff3367d6</color>
+    <color name="suw_color_accent_dark">@*android:color/accent_material_light</color>
+    <color name="suw_color_accent_light">@*android:color/accent_material_light</color>
+    <color name="suw_link_color_dark">@*android:color/accent_material_light</color>
+    <color name="suw_link_color_light">@*android:color/accent_material_light</color>
     <color name="suw_list_item_icon_color_dark">#b3ffffff</color>
     <color name="suw_list_item_icon_color_light">#89000000</color>
     <color name="suw_progress_bar_color_dark">#ffffcd40</color>
@@ -34,7 +34,7 @@
     <color name="suw_navbar_bg_light">#ffe4e7e9</color>
 
     <!-- GLIF colors -->
-    <color name="suw_color_accent_glif_dark">#ff4285f4</color>
-    <color name="suw_color_accent_glif_light">#ff4285f4</color>
+    <color name="suw_color_accent_glif_dark">@*android:color/accent_material_light</color>
+    <color name="suw_color_accent_glif_light">@*android:color/accent_material_light</color>
 
 </resources>
